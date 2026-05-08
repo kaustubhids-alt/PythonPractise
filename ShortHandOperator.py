@@ -1,3 +1,3 @@
-a =24
+a =2
 a//=20
-print(a)
+print(a) 
