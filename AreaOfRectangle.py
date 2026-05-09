@@ -1,0 +1,5 @@
+l=input("Enter the length of rectangle:")
+b=input("Enter the breadth of rectangle:")
+l=int(l)
+b=int(b)
+print("The Area of rectangle is:",(l*b))
